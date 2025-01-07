@@ -1,0 +1,5 @@
+[
+  { "id": 1, "avatar": "https://via.placeholder.com/48", "name": "Mango", "isOnline": true },
+  { "id": 2, "avatar": "https://via.placeholder.com/48", "name": "Kiwi", "isOnline": false },
+  { "id": 3, "avatar": "https://via.placeholder.com/48", "name": "Apple", "isOnline": true }
+]
